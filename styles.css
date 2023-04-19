@@ -1,1 +1,22 @@
 /*  your css code here. If applicable */
+body{
+	background-color:violet;
+}
+#container{
+	text-align: center;
+}
+ul{
+	background-color:white;
+    list-style-type:square;
+	
+	display:inline-bloc;
+	
+	}
+ul li{
+	padding:10px;
+}
+
+
+	
+	
+}
